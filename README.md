@@ -26,6 +26,11 @@ The repository in charge of my website portfolio.
 * Utilized multiple data visualisation techniques to portray insights and explain how the different columns in the data frame correlate.
 * Split up the data for training and testing, fit the data on 3 different regression models: Linear, Ridge and SVR and observed the root mean squared error of each model result.
 
+![](images/Screen%20Shot%202022-05-14%20at%2010.21.47%20PM.png)
+
+*A method of holistically checking out the correlation between different columns in our data*
+
+
 # [Project 3: Concrete Crack Detection](https://github.com/akhalifaa/Concrete-Crack-Detection) 🏗️
 ## Project Overview:
 * Downloaded a large [data set](https://www.kaggle.com/datasets/arunrk7/surface-crack-detection) of cracked and non-cracked concrete images from Kaggle and trained a model to detect cracks on a test set of similar concrete specimens.
@@ -73,7 +78,7 @@ What product was ordered the most by customers in Germany?
 * The goal was to strategically navigate all the tables and join them in order to figure out the thief, accomplice and city of escape.
 * The way I tackled this task was through a series of queries as seen in my log.sql file, all queries are titled with a common and are run one query at a time. Query by query I was able to determine the relevant columns to look at and narrow down the data to obtain the solution. Every q.text file has the result of my subsequent queries.
 
-# Cool Task 4: Tweet Sentiment Analysis 😄 😞
+# [Cool Task 4: Tweet Sentiment Analysis](https://github.com/akhalifaa/CanadaHousingTweets) 😄 😞
 ## Project Overview:
 * A simple task/project that portrays a sentiment analysis technique I used to classify Tweets regarding the Housing market in Canada.
 * Created a vectorizer based on the Tweets in order to map out all the words to corresponding unique vectors of real numbers.
