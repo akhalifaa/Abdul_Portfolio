@@ -1,5 +1,5 @@
-# Abdul_Portfolio
-The repository in charge of my website portfolio.
+# Abdul Khalifa's Portfolio
+Welcome to my portfolio! Navigate this page to check out the cool projects and tasks I have been working on, along with an update on what I am currently learing and what projects I am working on.
 
 # [Project 1: E-Commerce ChatBot](https://github.com/akhalifaa/EcommerceChatBot) 🤖
 ## Project Overview:
