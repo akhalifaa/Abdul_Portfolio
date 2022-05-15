@@ -16,7 +16,7 @@ The repository in charge of my website portfolio.
 
 *A tabular visualisation of the in and out features along with the neural network structure.*
 
-![](https://github.com/akhalifaa/EcommerceChatBot/blob/main/Convo.png)
+![](images/Convo.png)
 
 *A sample convo with the Bot, notice how the bot was asked twice about the products they sell in different ways and was responsive!* 
 
