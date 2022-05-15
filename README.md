@@ -28,8 +28,8 @@ The repository in charge of my website portfolio.
 
 # [Project 3: Concrete Crack Detection](https://github.com/akhalifaa/Concrete-Crack-Detection)
 ## Project Overview:
-* Downloaded a large [data set](https://www.kaggle.com/datasets/arunrk7/surface-crack-detection) of cracked and non-cracked concrete images from Kaggle and trained a model to detect such cracks on a test set of similar concrete specimens.
-* Created a four layer convoluted neural network model with ReLU activation and maxpooling in between layers and a sigmoid activation for calssification. I implemented the model with a (3,3) kernel size and a (2,2) pooling size.
+* Downloaded a large [data set](https://www.kaggle.com/datasets/arunrk7/surface-crack-detection) of cracked and non-cracked concrete images from Kaggle and trained a model to detect cracks on a test set of similar concrete specimens.
+* Created a four layer convoluted neural network model with ReLU activation and maxpooling in between layers and a sigmoid activation for clsssification. I implemented the model with a (3,3) kernel size and a (2,2) pooling size.
 * Observed some metrics for the model after training it and looked at the accuracy, training loss and the cofusion matrix after testing the model on the testing set. The model accuracy came to be 98.61%.
 
 ![](images/00001.jpg)
