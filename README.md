@@ -87,7 +87,7 @@ What product was ordered the most by customers in Germany?
 * The way I tackled this task was through a series of queries as seen in my log.sql file, all queries are titled with a common and are run one query at a time. Query by query I was able to determine the relevant columns to look at and narrow down the data to obtain the solution. Every q.text file has the result of my subsequent queries.
 
 # [Cool Task 4: Tweet Sentiment Analysis](https://github.com/akhalifaa/CanadaHousingTweets) 😄 😞
-## Project Overview:
+## Task Overview:
 * A simple task/project that portrays a sentiment analysis technique I used to classify Tweets regarding the Housing market in Canada.
 * Created a vectorizer based on the Tweets in order to map out all the words to corresponding unique vectors of real numbers.
 * Created a predictive Multinomial Naive Bayes Classifier model to classify the Tweets as positive or negative.
