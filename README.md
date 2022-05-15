@@ -1,8 +1,12 @@
 # Abdul Khalifa's Portfolio
-#### 🐍 I utilized my knowledge in Python, SQL and various machine learning packages such as Pandas, Numpy, Sci-kit Learn, Pytorch and more...to work on various exploratory projects to test out regression and classification models.
-#### 📎 I Worked on some cool tasks along the way inspired by courses, curiousity and simply...to learn more about coding.
-#### ⚽ I am currently working on a regression-based model project that predicts a professional soccer player's value in Euros...I am a big soccer fan!
-#### 📖 I am currently honing my data science Python/frameworks and SQL skills, learning more about Flask and working with API's in addition to improving my git knowledge.
+## General Overview:
+🐍 I utilize my knowledge in Python, SQL and various machine learning packages such as Pandas, Numpy, Sci-kit Learn, Pytorch and more...to work on various exploratory projects and test out regression and classification models that could be applied in the real world.
+
+📎 I also post some cool tasks I have worked on along the way inspired by courses, curiousity and simply...to learn more about coding.
+
+⚽ I am currently working on a regression-based model project that predicts a professional soccer player's value in Euros...I am a big soccer fan!
+
+📖 I am currently honing my data science Python/frameworks and SQL skills, learning more about Flask and working with API's in addition to improving my git knowledge.
 
 # [Project 1: E-Commerce ChatBot](https://github.com/akhalifaa/EcommerceChatBot) 🤖
 ## Project Overview:
@@ -52,6 +56,7 @@
 ## Task Overview:
 This repository contains two separate cool tasks I did with Python that have interesting applications:
 1) Tournament.py is a script that simulates the famous soccer FIFA World Cup to come up the percent chance of a participating country to win based on past World Cup stats and winning streaks that give each country a rating. Along with it are the [2018m](https://github.com/akhalifaa/DNAandSoccerTournament/blob/main/2018m.csv) and [2019w](https://github.com/akhalifaa/DNAandSoccerTournament/blob/main/2019w.csv) that have the men's and women's soccer World Cup team ratings respectively.
+
 2) DNA.py is a script that reads [DNA sequences](https://github.com/akhalifaa/DNAandSoccerTournament/tree/main/sequences) and searches a [DNA database](https://github.com/akhalifaa/DNAandSoccerTournament/tree/main/databases) to match that sequence to an individual. This concept has applications in crime detection and is actually used to investigate crimes.
 
 # [Cool Task 2: Shopify Data Science Challenge 2022](https://github.com/akhalifaa/ShopifyDSChallenge2022) 🛒
