@@ -10,6 +10,7 @@
 
 # [Project 1: E-Commerce ChatBot](https://github.com/akhalifaa/EcommerceChatBot) 🤖
 ## Project Overview:
+#### Packages Used: NLTK, Numpy, Pytorch, Sci-kit Learn, and Matplotlib.
 * Created an Ecommerce style Chatbot that interacts with customers inquiring about things like **products, delivery times, and payment methods**
 * Built a Json intents file containing various **tags, patterns and responses strings** that I tailored to an Ecommerce environment and used to train and test my model.
 * Utilized the NLTK toolkit to pre-process strings from the JSON file.
@@ -30,6 +31,7 @@
 
 # [Project 2: Canada Housing Market, An Exploratory Analysis](https://github.com/akhalifaa/CanadaHousing) 🏠
 ## Project Overview:
+#### Packages Used: Pandas, Numpy.
 * An exploratory analysis of the Canadian Housing Market, observed features such as number of households, household income, value and more.
 * Utilized multiple data visualisation techniques to portray insights and explain how the different columns in the data frame correlate.
 * Split up the data for training and testing, fit the data on 3 different regression models: Linear, Ridge and SVR and observed the root mean squared error of each model result.
@@ -41,6 +43,7 @@
 
 # [Project 3: Concrete Crack Detection](https://github.com/akhalifaa/Concrete-Crack-Detection) 🏗️
 ## Project Overview:
+#### Packages Used: Pandas, Numpy, Seaborn, matplotlib, Tensorflow/keras, cv2.
 * Downloaded a large [data set](https://www.kaggle.com/datasets/arunrk7/surface-crack-detection) of cracked and non-cracked concrete images from Kaggle and trained a model to detect cracks on a test set of similar concrete specimens.
 * Created a four layer convoluted neural network model with ReLU activation and maxpooling in between layers and a sigmoid activation for clsssification. I implemented the model with a (3,3) kernel size and a (2,2) pooling size.
 * Observed some metrics for the model after training it and looked at the accuracy, training loss and the cofusion matrix after testing the model on the testing set. The model accuracy came to be 98.61%.
