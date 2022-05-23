@@ -40,6 +40,10 @@
 
 *A method of holistically checking out the correlation between different columns in our data*
 
+![](images/Residual.png)
+
+*A Plot of the Residuals of the Linear Regression Model Results*
+
 
 # [Project 3: Concrete Crack Detection](https://github.com/akhalifaa/Concrete-Crack-Detection) 🏗️
 ## Project Overview:
