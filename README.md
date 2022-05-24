@@ -10,7 +10,7 @@
 
 # [Project 1: E-Commerce ChatBot](https://github.com/akhalifaa/EcommerceChatBot) 🤖
 ## Project Overview:
-#### Packages Used: NLTK, Numpy, Pytorch, Sci-kit Learn, and Matplotlib.
+#### Libraries Used: NLTK, Numpy, Pytorch, Sci-kit Learn, and Matplotlib.
 * Created an Ecommerce style Chatbot that interacts with customers inquiring about things like **products, delivery times, and payment methods**
 * Built a Json intents file containing various **tags, patterns and responses strings** that I tailored to an Ecommerce environment and used to train and test my model.
 * Utilized the NLTK toolkit to pre-process strings from the JSON file.
@@ -29,10 +29,26 @@
 
 *A sample convo with the Bot, notice how the bot was asked twice about the products they sell in different ways and was responsive!* 
 
-# [Project 2: Canada Housing Market, An Exploratory Analysis](https://github.com/akhalifaa/CanadaHousing) 🏠
+# [Project 2: Advertisement Classifier, Did they Click or Not?](https://github.com/akhalifaa/AdvertisementClassifier) 📱
 ## Project Overview:
-#### Packages Used: Pandas, Numpy.
-* An exploratory analysis of the Canadian Housing Market, observed features such as number of households, household income, value and more.
+#### Libraries Used: Pandas, Numpy, Sci-Kit Learn, Seaborn, Matbplotlib.
+ * A mini-machine learning project involving the creating of a logistic regression model that predicts whether a user clicks on an internet advertisement or not.
+ * The data set contained information about users such as their daily time spent on the internet, age, area income, country and more...
+ * This project involved exploring and cleaning data via various data visualization techniques, creating and training a logistic regression model and evalating its classification metrics. More importantly, as a part of creating the training data set, I implemented my take on feature engineering by adjusting the raw data set to include string and non-numerical data so that we could include more features and have a better trained model. I implemented functions such as splitting timestamps and assigning them to new columns and creating dummy variables for a the "Country" column where there was a selection of around 290 different countries.
+ * Achieved a testing accuracy of 97%.
+
+![](images/pairplot.png)
+
+*A pairplot of all our columns with a Hue of whether the Ad was clicked on or not*
+
+![](images/Confusion%20Matrix.png)
+
+*Confusion Matrix Portraying the Testing Results*
+
+# [Project 3: Canada Housing Market, An Exploratory Analysis](https://github.com/akhalifaa/CanadaHousing) 🏠
+## Project Overview:
+#### Libraries Used: Pandas, Numpy.
+* An exploratory analysis of the Canadian Housing Market, observed features such as number of households, household income, value and more. This project portrays the process of executing a machine learning project that involves data exploration, cleaning, feature engineering, creating and training a model and evaluating results.
 * Utilized multiple data visualisation techniques to portray insights and explain how the different columns in the data frame correlate.
 * Split up the data for training and testing, fit the data on 3 different regression models: Linear, Ridge and SVR and observed the root mean squared error of each model result.
 
@@ -45,9 +61,9 @@
 *A Plot of the Residuals of the Linear Regression Model Results*
 
 
-# [Project 3: Concrete Crack Detection](https://github.com/akhalifaa/Concrete-Crack-Detection) 🏗️
+# [Project 4: Concrete Crack Detection](https://github.com/akhalifaa/Concrete-Crack-Detection) 🏗️
 ## Project Overview:
-#### Packages Used: Pandas, Numpy, Seaborn, matplotlib, Tensorflow/keras, cv2.
+#### Libraries Used: Pandas, Numpy, Seaborn, matplotlib, Tensorflow/keras, cv2.
 * Downloaded a large [data set](https://www.kaggle.com/datasets/arunrk7/surface-crack-detection) of cracked and non-cracked concrete images from Kaggle and trained a model to detect cracks on a test set of similar concrete specimens.
 * Created a four layer convoluted neural network model with ReLU activation and maxpooling in between layers and a sigmoid activation for clsssification. I implemented the model with a (3,3) kernel size and a (2,2) pooling size.
 * Observed some metrics for the model after training it and looked at the accuracy, training loss and the cofusion matrix after testing the model on the testing set. The model accuracy came to be 98.61%.
@@ -60,7 +76,7 @@
 
 *Confusion Matrix Representing the Accuracy of the model on the test data*
 
-# [Cool Task 1: DNAandSoccerTournament]() ⚽  :
+# [Cool Task 1: DNAandSoccerTournament]() ⚽ 
 ## Task Overview:
 This repository contains two separate cool tasks I did with Python that have interesting applications:
 1) Tournament.py is a script that simulates the famous soccer FIFA World Cup to come up the percent chance of a participating country to win based on past World Cup stats and winning streaks that give each country a rating. Along with it are the [2018m](https://github.com/akhalifaa/DNAandSoccerTournament/blob/main/2018m.csv) and [2019w](https://github.com/akhalifaa/DNAandSoccerTournament/blob/main/2019w.csv) that have the men's and women's soccer World Cup team ratings respectively.
