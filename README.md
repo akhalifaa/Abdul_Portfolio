@@ -52,7 +52,7 @@
 * Utilized multiple data visualisation techniques to portray insights and explain how the different columns in the data frame correlate.
 * Split up the data for training and testing, fit the data on 3 different regression models: Linear, Ridge and SVR and observed the root mean squared error of each model result.
 
-![](images/Screen%20Shot%202022-05-14%20at%2010.21.47%20PM.png)
+![](images/histo.png)
 
 *A method of holistically checking out the correlation between different columns in our data*
 
