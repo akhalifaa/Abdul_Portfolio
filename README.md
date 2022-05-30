@@ -1,6 +1,4 @@
 # Abdul Khalifa's Portfolio
-----
-----
 
 
 # [Project 1: E-Commerce ChatBot](https://github.com/akhalifaa/EcommerceChatBot) 🤖
