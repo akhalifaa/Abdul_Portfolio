@@ -1,12 +1,5 @@
 # Abdul Khalifa's Portfolio
-## General Overview:
-🐍 I utilize my knowledge in Python, SQL and various machine learning packages such as Pandas, Numpy, Sci-kit Learn, Pytorch and more...to work on various exploratory projects and test out different models that could be applied in the real world.
 
-📎 I also post some cool tasks I have worked on along the way inspired by courses, curiousity and to learn more about coding.
-
-⚽ I am currently working on a regression-based model project that predicts a professional soccer player's value in Euros...I am a big soccer fan!
-
-📖 I am currently honing my data science Python/frameworks and SQL skills, learning more about Flask and working with API's, and improving my git knowledge.
 
 # [Project 1: E-Commerce ChatBot](https://github.com/akhalifaa/EcommerceChatBot) 🤖
 ## Project Overview:
