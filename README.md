@@ -24,7 +24,23 @@
 
 *A sample convo with the Bot, notice how the bot was asked twice about the products they sell in different ways and was responsive!* 
 
-# [Project 2: Advertisement Classifier, Did they Click or Not?](https://github.com/akhalifaa/AdvertisementClassifier) 📱
+# [Project 2: Loan Repayment Neural Network Classifier](https://github.com/akhalifaa/LoanRepayment) 💰
+## Project Overview:
+#### Libraries Used: Pandas, Numpy,Tensorflow/Keras, Sci-Kit Learn, Seaborn, Matbplotlib.
+* A comprehensive project involving heavy feature engineering to create a NN model that classifies whether an individual will repay a loan or not.
+* Analyzed plenty of features such as total credit accounts, job title, loan grade, mortgage accounts and many more in order to prepare the data for training.
+* Feature engineering involved looking at categorical features and their correlations to numerical features in order to transform them into trainable data.
+* Utilized dummy features, mapping and function applying to certain features in order to transform them into trainable data.
+* Created a fully connected Neural Network using Keras that took in 78 features, involved two hidden layers and an output layer that classifies whether a certain individual would repay their loan or not.
+* Evaluate model metrics: achieved a good model training and validating loss and classification report/confusion matrix convey 90% accuracy. This can be much improved if we use the full data set and increase training epochs.
+
+
+![](images/heatmap.png)
+
+*Heat map of all the features in order to initialize the feature engineering process*
+
+
+# [Project 3: Advertisement Classifier, Did they Click or Not?](https://github.com/akhalifaa/AdvertisementClassifier) 📱
 ## Project Overview:
 #### Libraries Used: Pandas, Numpy, Sci-Kit Learn, Seaborn, Matbplotlib.
  * A mini-machine learning project involving the creation of a logistic regression model that predicts whether a user clicks on an internet advertisement or not.
@@ -40,7 +56,7 @@
 
 *Confusion Matrix Portraying the Testing Results*
 
-# [Project 3: Canada Housing Market, An Exploratory Analysis](https://github.com/akhalifaa/CanadaHousing) 🏠
+# [Project 4: Canada Housing Market, A Regression Analysis](https://github.com/akhalifaa/CanadaHousing) 🏠
 ## Project Overview:
 #### Libraries Used: Pandas, Numpy.
 * An exploratory analysis of the Canadian Housing Market, observed features such as number of households, household income, value and more. This project portrays the process of executing a machine learning project that involves data exploration, cleaning, feature engineering, creating and training a model and evaluating results.
@@ -56,7 +72,7 @@
 *A Plot of the Residuals of the Linear Regression Model Results*
 
 
-# [Project 4: Concrete Crack Detection](https://github.com/akhalifaa/Concrete-Crack-Detection) 🏗️
+# [Project 5: Concrete Crack Detection](https://github.com/akhalifaa/Concrete-Crack-Detection) 🏗️
 ## Project Overview:
 #### Libraries Used: Pandas, Numpy, Seaborn, matplotlib, Tensorflow/keras, cv2.
 * Downloaded a large [data set](https://www.kaggle.com/datasets/arunrk7/surface-crack-detection) of cracked and non-cracked concrete images from Kaggle and trained a model to detect cracks on a test set of similar concrete specimens.
