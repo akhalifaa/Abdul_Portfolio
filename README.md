@@ -1,9 +1,23 @@
 # Abdul Khalifa's Portfolio
 ----
-----
+# [Project 1: Finance](https://github.com/akhalifaa/Finance) :moneybag: :dollar:
+## Project Overview:
+### For this project, I used Flask to develop a web application that simulates a financial stock portfolio/exchange platform that you can buy and sell stocks from. I built up the process of regestering on the platform, buying and selling stocks, viewing your portfolio and viewing your complete history of exchange activity. This project was all about learning and exploring Flask, which is a backend framework running with Python. It was a fantastic learning opportunity to understand what happens underneath the hood of many web applications. Flask's main file distribution comrise of a conroller app.py file, templates folder for HTML files, styles folder for CSS and a database of some sort.
 
+In order to access real time stock valuation data, I utilized IEX's API platform which gives you stock quotes, names etc...
 
-# [Project 1: E-Commerce ChatBot](https://github.com/akhalifaa/EcommerceChatBot) 🤖
+For my database, I used a Sqlite3 to implement CRUD activities, store and manage user data.
+
+In order to run this web application, you must create an account with IEX to obtain a unique token key. Once you obtain that, run export API_KEY= (token key) in the terminal, at the directory where your storing all your files. 
+
+Here are sample images from the web applications.
+### The Index Page
+![alt text](/img1.png)
+
+### The Sell Page
+![alt text](/img2.png)
+
+# [Project 2: E-Commerce ChatBot](https://github.com/akhalifaa/EcommerceChatBot) 🤖
 ## Project Overview:
 #### Libraries Used: NLTK, Numpy, Pytorch, Sci-kit Learn, and Matplotlib.
 * Created an Ecommerce style Chatbot that interacts with customers inquiring about things like **products, delivery times, and payment methods**
@@ -24,7 +38,7 @@
 
 *A sample convo with the Bot, notice how the bot was asked twice about the products they sell in different ways and was responsive!* 
 
-# [Project 2: Loan Repayment Neural Network Classifier](https://github.com/akhalifaa/LoanRepayment) 💰
+# [Project 3: Loan Repayment Neural Network Classifier](https://github.com/akhalifaa/LoanRepayment) 💰
 ## Project Overview:
 #### Libraries Used: Pandas, Numpy,Tensorflow/Keras, Sci-Kit Learn, Seaborn, Matbplotlib.
 * A comprehensive project involving heavy feature engineering to create a NN model that classifies whether an individual will repay a loan or not.
@@ -40,7 +54,7 @@
 *Heat map of all the features in order to initialize the feature engineering process*
 
 
-# [Project 3: Advertisement Classifier, Did they Click or Not?](https://github.com/akhalifaa/AdvertisementClassifier) 📱
+# [Project 4: Advertisement Classifier, Did they Click or Not?](https://github.com/akhalifaa/AdvertisementClassifier) 📱
 ## Project Overview:
 #### Libraries Used: Pandas, Numpy, Sci-Kit Learn, Seaborn, Matbplotlib.
  * A mini-machine learning project involving the creation of a logistic regression model that predicts whether a user clicks on an internet advertisement or not.
@@ -56,7 +70,7 @@
 
 *Confusion Matrix Portraying the Testing Results*
 
-# [Project 4: Canada Housing Market, A Regression Analysis](https://github.com/akhalifaa/CanadaHousing) 🏠
+# [Project 5: Canada Housing Market, A Regression Analysis](https://github.com/akhalifaa/CanadaHousing) 🏠
 ## Project Overview:
 #### Libraries Used: Pandas, Numpy.
 * An exploratory analysis of the Canadian Housing Market, observed features such as number of households, household income, value and more. This project portrays the process of executing a machine learning project that involves data exploration, cleaning, feature engineering, creating and training a model and evaluating results.
@@ -72,7 +86,7 @@
 *A Plot of the Residuals of the Linear Regression Model Results*
 
 
-# [Project 5: Concrete Crack Detection](https://github.com/akhalifaa/Concrete-Crack-Detection) 🏗️
+# [Project 6: Concrete Crack Detection](https://github.com/akhalifaa/Concrete-Crack-Detection) 🏗️
 ## Project Overview:
 #### Libraries Used: Pandas, Numpy, Seaborn, matplotlib, Tensorflow/keras, cv2.
 * Downloaded a large [data set](https://www.kaggle.com/datasets/arunrk7/surface-crack-detection) of cracked and non-cracked concrete images from Kaggle and trained a model to detect cracks on a test set of similar concrete specimens.
