@@ -12,10 +12,10 @@ In order to run this web application, you must create an account with IEX to obt
 
 Here are sample images from the web applications.
 ### The Index Page
-![alt text](/img1.png)
+![alt text](images/img1.png)
 
 ### The Sell Page
-![alt text](/img2.png)
+![alt text](images/img2.png)
 
 # [Project 2: E-Commerce ChatBot](https://github.com/akhalifaa/EcommerceChatBot) 🤖
 ## Project Overview:
