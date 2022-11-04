@@ -2,7 +2,7 @@
 ----
 # [Project 1: Finance](https://github.com/akhalifaa/Finance)
 ## Project Overview:
-#### For this project, I used Flask to develop a web application that simulates a financial stock portfolio/exchange platform that you can buy and sell stocks from. I built up the process of regestering on the platform, buying and selling stocks, viewing your portfolio and viewing your complete history of exchange activity. This project was all about learning and exploring Flask, which is a backend framework running with Python. It was a fantastic learning opportunity to understand what happens underneath the hood of many web applications. Flask's main file distribution comrise of a conroller app.py file, templates folder for HTML files, styles folder for CSS and a database of some sort.
+#### For this project, I used Flask to develop a web application that simulates a financial stock portfolio/exchange platform that you can buy and sell stocks from. I built up the process of regestering on the platform, buying and selling stocks, viewing your portfolio and viewing your complete history of exchange activity. This project was all about learning and exploring Flask, which is a backend framework running with Python. It was a fantastic learning opportunity to understand what happens underneath the hood of many web applications. Flask's main file distribution comprise of a conroller app.py file, templates folder for HTML files, styles folder for CSS and a database of some sort.
 
 In order to access real time stock valuation data, I utilized IEX's API platform which gives you stock quotes, names etc...
 
