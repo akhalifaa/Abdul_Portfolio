@@ -87,21 +87,6 @@ Here are sample images from the web applications.
 *A Plot of the Residuals of the Linear Regression Model Results*
 
 
-# [Project 6: Concrete Crack Detection](https://github.com/akhalifaa/Concrete-Crack-Detection) 🏗️
-## Project Overview:
-#### Libraries Used: Pandas, Numpy, Seaborn, matplotlib, Tensorflow/keras, cv2.
-* Downloaded a large [data set](https://www.kaggle.com/datasets/arunrk7/surface-crack-detection) of cracked and non-cracked concrete images from Kaggle and trained a model to detect cracks on a test set of similar concrete specimens.
-* Created a four layer convoluted neural network model with ReLU activation and maxpooling in between layers and a sigmoid activation for clsssification. I implemented the model with a (3,3) kernel size and a (2,2) pooling size.
-* Observed some metrics for the model after training it and looked at the accuracy, training loss and the cofusion matrix after testing the model on the testing set. The model accuracy came to be 98.61%.
-
-![](images/00001.jpg)
-
-*Cracked Concrete Specimen that the model classifies as 1 or Cracked*
-
-![](images/download.png)
-
-*Confusion Matrix Representing the Accuracy of the model on the test data*
-
 # [Cool Task 1: DNAandSoccerTournament]() ⚽ 
 ## Task Overview:
 This repository contains two separate cool tasks I did with Python that have interesting applications:
